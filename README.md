@@ -1,2 +1,2 @@
 # Mortality-Rates-Comparing-Tableau
-My Tableau Project
+My First Tableau Individual Project
